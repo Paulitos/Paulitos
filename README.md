@@ -36,7 +36,7 @@ Here are some of the tools and technologies I work with:
 ...
 
 ## 🔥 My Projects
-- [Awesome Portfolio](https://paulitos.github.io/DataSciencePortfolio_paulos/) - A stunning portfolio template.
+- [Awesome Portfolio](https://paulitos.github.io/DataSciencePortfolio_paulos/) - My stunning portfolio for Data Science related jobs.
 - [Python-linter-formatter](https://github.com/Paulitos/python-linter-formatter) - Tool to automatically lint and format Python code using flake8 and black.
 
 ## 📊 GitHub Stats
