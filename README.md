@@ -1,4 +1,3 @@
-<!--
 ## Hi there 👋
 
 **Paulitos/Paulitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +32,7 @@ Here are some of the tools and technologies I work with:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-...
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 🔥 My Projects
 - [Awesome Portfolio](https://paulitos.github.io/DataSciencePortfolio_paulos/) - My stunning portfolio for Data Science related jobs.
