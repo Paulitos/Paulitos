@@ -1,34 +1,6 @@
-# Hello, I'm Pablo! 👋
+# 💫 About Me
+🔭 I’m currently working on **O-NOVA**<br>💬 Ask me about **Next.js**, **Python** and **SQL**
 
-## 🚀 About Me
-I am a Data Scientist who loves coding, open source, AI, etc. I'm passionate about building things, whether it's a web app, a profitable SaaS product, or a cloud-based tool. Always learning and pushing my limits.
+# 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on **various projects**
-- 🌱 I’m currently learning **various technologies and languages**
-- 👯 I’m looking to collaborate on **open source projects**
-- 📫 How to reach me: **pablosanchezworkemail@gmail.com**
-- ⚡ Fun fact: **I like powerbuilding**
-
-## 🛠️ Skills
-Here are some of the tools and technologies I work with:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-
-## 🔥 My Projects
-- [Awesome Portfolio](https://paulitos.github.io/DataSciencePortfolio_paulos/) - My stunning portfolio for Data Science related jobs.
-- [Python-linter-formatter](https://github.com/Paulitos/python-linter-formatter) - Tool to automatically lint and format Python code using flake8 and black.
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulitos&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulitos&layout=compact&theme=radical)
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paulitos)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Pa_u_los)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=ko-fi&logoColor=white)](https://paulitos.github.io/DataSciencePortfolio_paulos/)
