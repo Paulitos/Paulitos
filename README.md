@@ -1,6 +1,34 @@
-# 💫 About Me
-🔭 I’m currently working on **O-NOVA**
+# 👋 Hi, I'm Paulitos
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white)
+**Analytics Engineer & Data Engineer** building reliable data platforms and AI-powered products.
+
+---
+
+## 🚀 What I do
+- Design and implement **data ingestion, transformation and validation pipelines**
+- Build **analytics-ready data models** and semantic layers
+- Develop **production-grade APIs and services** for data and AI-driven products
+- Automate workflows, monitoring and deployments
+
+---
+
+## 💻 Tech Stack
+
+**Data & Analytics**
+- Python · SQL · Spark · PySpark  
+- Microsoft Fabric · Lakehouse · Data Warehousing  
+- Power BI · DAX · Semantic Models  
+
+**Engineering**
+- FastAPI · TypeScript  
+- PostgreSQL  
+- Docker · GitHub Actions  
+- CI/CD · Automation · Monitoring  
+
+---
+
+## 🧩 Selected Work
+- **O-NOVA** – AI-powered video automation SaaS (Co-founder & CTO)  
+- End-to-end analytics platforms for **banking, telecom and public sector**  
+- Data quality, reconciliation and monitoring systems for financial reporting
 
