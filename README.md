@@ -15,9 +15,9 @@
 ## 💻 Tech Stack
 
 **Data & Analytics**
-- Python · SQL · Spark · PySpark  
+- Python · SQL · Spark
 - Microsoft Fabric · Lakehouse · Data Warehousing  
-- Power BI · DAX · Semantic Models  
+- Power BI 
 
 **Engineering**
 - FastAPI · TypeScript  
