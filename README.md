@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Paulitos
-
+# 👋 Hi, I'm Pablo
 **Analytics Engineer & Data Engineer** building reliable data platforms and AI-powered products.
 
 ---
@@ -14,21 +13,21 @@
 
 ## 💻 Tech Stack
 
-**Data & Analytics**
-- Python · SQL · Spark
-- Microsoft Fabric · Lakehouse · Data Warehousing  
-- Power BI 
+**Data Engineering**
+- SQL · Python · Apache Spark
+- Azure (ADLS, Databricks, Data Factory) · AWS
+- ETL/ELT · Data Modeling · Data Quality
 
-**Engineering**
-- FastAPI · TypeScript  
-- PostgreSQL  
-- Docker · GitHub Actions  
-- CI/CD · Automation · Monitoring  
+**Analytics**
+- SQL · Power BI · Semantic Layers
+
+**Software Engineering**
+- FastAPI · TypeScript · PostgreSQL
+- Docker · GitHub Actions · CI/CD
 
 ---
 
 ## 🧩 Selected Work
-- **O-NOVA** – AI-powered video automation SaaS (Co-founder & CTO)  
-- End-to-end analytics platforms for **banking, telecom and public sector**  
+- **O-NOVA** – AI-powered video automation SaaS (Co-founder & CTO)
+- End-to-end analytics platforms for **banking, energy and public sector**
 - Data quality, reconciliation and monitoring systems for financial reporting
-
