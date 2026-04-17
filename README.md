@@ -1,6 +1,6 @@
 Data and Analytics Engineer with 4+ years of experience in data engineering and analytics.
 
-I design and implement end-to-end data solutions on Microsoft Fabric, Power BI, Databricks, and Azure for clients across banking, energy, hospitality, retail, public sector, and marketing.
+I design and implement end-to-end data solutions on Microsoft Fabric, Power BI, and Databricks for clients across banking, energy, hospitality, retail, public sector, and marketing.
 
 Stack:
 - ETL/ELT: PySpark, Databricks, Azure Data Factory
