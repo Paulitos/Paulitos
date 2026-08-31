@@ -1,13 +1,13 @@
-𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲
-▻ Microsoft Fabric
-▻ Power BI
-▻ SQL
-▻ Python
-▻ Apache Spark / PySpark
-▻ Databricks
-▻ AWS
-▻ Tabular Editor
-▻ DAX Studio
+𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 
+▻ Microsoft Fabric 
+▻ Power BI 
+▻ SQL 
+▻ Python 
+▻ Apache Spark / PySpark 
+▻ Databricks 
+▻ AWS 
+▻ Tabular Editor 
+▻ DAX Studio 
 
 𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗲𝘀
 ▻ Banking and finance
