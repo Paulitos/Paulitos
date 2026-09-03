@@ -32,7 +32,4 @@
 𝗧𝗶𝗺𝗲𝘇𝗼𝗻𝗲 𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆  
 ▻ UK and Ireland, UTC+0 / UTC+1  
 ▻ DACH and Central Europe, UTC+1 / UTC+2  
-▻ US and Canada East, UTC-4 / UTC-5  
-▻ US and Canada Central, UTC-5 / UTC-6  
-▻ US and Canada Mountain, UTC-6 / UTC-7  
-▻ US and Canada West, UTC-7 / UTC-8  
+▻ US and Canada East, UTC-4 / UTC-5
